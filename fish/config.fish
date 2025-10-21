@@ -14,3 +14,7 @@ function sail
     end
 end
 # funcsave sail
+
+function i
+    yay -S --noconfirm $argv
+end
